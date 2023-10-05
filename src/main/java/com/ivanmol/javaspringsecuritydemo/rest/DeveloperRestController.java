@@ -1,4 +1,4 @@
-package com.ivanmol.javaspringsecuritydemo.controller;
+package com.ivanmol.javaspringsecuritydemo.rest;
 
 import com.ivanmol.javaspringsecuritydemo.model.Developer;
 import org.springframework.security.access.prepost.PreAuthorize;
